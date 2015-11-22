@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/vivek/BARE_OS/GPSPlotterProject/GPSPlotter/build/intermediates/pre-dexed/debug/classes-5e2aa7166761c1e80a9b0121c329c468bd645e99.jar"
+        jar="/home/vivek/BARE_OS/GPSPlotterProject/GPSPlotter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/home/vivek/BARE_OS/GPSPlotterProject/GPSPlotter/build/intermediates/pre-dexed/debug/classes-d1ad14f2731832a2f8479fba1eca4a4e4b9dca6f.jar"
+        jar="/home/vivek/BARE_OS/GPSPlotterProject/GPSPlotter/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262"/>
+    <item
+        dex="/home/vivek/BARE_OS/GPSPlotterProject/GPSPlotter/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6edca6df2dece3e14bbc9605a741e348baf7eb6c.jar"
+        jar="/home/vivek/BARE_OS/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>
